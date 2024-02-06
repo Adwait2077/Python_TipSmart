@@ -11,7 +11,7 @@ print()
 
 persons = int(input("Please enter the number of people you would like to split the bill between: \n"))
 print()
-tip_amount = ((bill_amount + (bill_amount * (tip / 100))) /persons)
+bill_per_person = ((bill_amount + (bill_amount * (tip / 100))) /persons)
 
-print(f"The amount each person has to pay is {(round(tip_amount,2))} Euros")
+print(f"The amount each person has to pay is " + "{:.2f}".format(bill_per_person) + " Euros")
 print()
