@@ -12,7 +12,7 @@ Ensure you have Python installed on your system.
 
 # Installation
 - Clone the repository:
-  [git clone https://github.com/your-username/Python_TipSmart.git]
+  [(https://github.com/Adwait2077/Python_TipSmart.git)]
 
 - Run the application:
   python Tip_cal.py
