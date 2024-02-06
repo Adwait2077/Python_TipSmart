@@ -4,7 +4,6 @@ Welcome to TipSmart, a straightforward and user-friendly Python-based tip calcul
 # Features
 **Easy to Use**: Simple and intuitive interface for quick tip calculations.<br>
 **Customizable**: Adjust the tip percentage and split the bill among friends easily.<br>
-**Real-time Updates**: See the calculated tip and total amount in real time as you make changes.<br>
 **User-Friendly Design**: Clean and minimalistic design for a seamless user experience.<br>
 
 # Getting Started
@@ -13,4 +12,9 @@ Ensure you have Python installed on your system.
 
 # Installation
 - Clone the repository:
-  git clone https://github.com/your-username/Python_TipSmart.git
+  [git clone https://github.com/your-username/Python_TipSmart.git]
+
+- Run the application:
+  python Tip_cal.py
+
+### Enjoy hassle-free tip calculations with TipSmart!
