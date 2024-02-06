@@ -3,7 +3,7 @@ Welcome to TipSmart, a straightforward and user-friendly Python-based tip calcul
 
 # Features
 **Easy to Use**: Simple and intuitive interface for quick tip calculations.<br>
-**Customizable**: Adjust the tip percentage and split the bill among friends easily.<br>
+**Customizable**: Select the tip percentage and split the bill among friends easily.<br>
 **User-Friendly Design**: Clean and minimalistic design for a seamless user experience.<br>
 
 # Getting Started
